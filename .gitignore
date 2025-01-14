@@ -1,0 +1,43 @@
+# Compiled object files
+*.o
+*.a
+*.so
+
+# Generated files
+*.pyc
+*.pyo
+*.swp
+*.bak
+
+# IDE-specific files
+.vscode/
+.idea/
+*.iml
+
+# Build artifacts
+*.jar
+*.war
+*.ear
+*.dll
+*.exe
+
+# Local configuration files
+*.local
+*.config
+.env
+
+# Testing files
+test/results/
+test/reports/
+coverage/
+
+# Logs
+*.log
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
